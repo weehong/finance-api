@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Subscription 1",
+    "currency": "USD",
+    "amount": "10.00",
+    "convertedAmount": "20.00",
+    "billingCycle": 12,
+    "subscriptionDate": "2024-08-01",
+    "nextSubscriptionDate": "2025-08-01",
+    "createdAt": "2024-08-18T03:59:59Z",
+    "updatedAt": "2024-08-18T03:59:59Z"
+  },
+  {
+    "id": 2,
+    "name": "Subscription 2",
+    "currency": "EUR",
+    "amount": "20.00",
+    "convertedAmount": "40.00",
+    "billingCycle": 12,
+    "subscriptionDate": "2024-08-01",
+    "nextSubscriptionDate": "2025-08-01",
+    "createdAt": "2024-08-18T03:59:59Z",
+    "updatedAt": "2024-08-18T03:59:59Z"
+  }
+]

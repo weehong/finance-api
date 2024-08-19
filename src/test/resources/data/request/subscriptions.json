@@ -1,0 +1,10 @@
+{
+  "name": "Subscription 1",
+  "fromCurrency": "USD",
+  "toCurrency": "SGD",
+  "amount": "10.00",
+  "billingCycle": 12,
+  "subscriptionDate": "2024-08-01",
+  "createdAt": "2024-08-18T03:59:59Z",
+  "updatedAt": "2024-08-18T03:59:59Z"
+}
